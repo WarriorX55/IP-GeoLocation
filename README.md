@@ -5,7 +5,7 @@
 
 [*] IP Geolocation Tool
 
-options:
+# options:
   -h,         --help                 show this help message and exit
   -u URL,     --url URL              Locate an IP based on a URL
   -t IP,      --target IP            Locate the specified IP
