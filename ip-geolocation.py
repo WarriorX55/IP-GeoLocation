@@ -7,10 +7,13 @@
 # Happy hacking!
 
 import sys
+import pyfiglet
 import socket
 import urllib
 import gzip
 import os
+
+print(pyfiglet.figlet_format('IP-GeoLocation'))
 
 try:
 	import pygeoip
